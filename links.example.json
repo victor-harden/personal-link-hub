@@ -1,0 +1,29 @@
+{
+  "title": "Victor",
+  "sections": [
+    {
+      "name": "Projects",
+      "links": [
+        {
+          "label": "VictorHub",
+          "url": "https://github.com/victor-harden/victorhub",
+          "description": "Plugin registry, profiles and event log"
+        },
+        {
+          "label": "Security notes",
+          "url": "https://github.com/victor-harden/ethical-hacking-notes",
+          "description": "Ethics-first study notes"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/victor-harden"
+        }
+      ]
+    }
+  ]
+}
